@@ -1,0 +1,139 @@
+.container-fluid {
+    /* width: 70%; */
+    /* margin: auto; */
+    text-align: center;
+  }
+  
+  .dice {
+   
+    display: inline-block;
+  
+  }
+  
+  body {
+    background-color: #393E46;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  img {
+    width: 50%;
+  }
+  .btn{
+    color:#4ECCA3 ;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    background-color:#393E46 ;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'Indie Flower', cursive;
+    position: relative;
+    left: 620px;
+    top: 40px;
+  }
+  .btn:hover{
+    background-color: white;
+    color: red;
+    
+    border: 2px solid #e7e7e7;
+  }
+  
+  footer {
+    margin-top: 3%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+
+  /* .head1{
+    position: relative;
+    right: 350px;
+  }
+
+  .head2{
+    position: relative;
+    left: 200px;
+    bottom: 370px;
+  } */
+  /* .im1{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 80px;
+    top: 400px;
+  }
+  .im2{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 240px;
+    top: 400px;
+  }
+  .he1{
+    position: absolute;
+    left: 140px;
+    top: 290px;
+  }
+  .im3{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    right: 80px;
+    top: 400px;
+  }
+  .im4{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    right: 240px;
+    top: 400px;
+  }
+  .he2{
+    position: absolute;
+    right: 140px;
+    top: 290px;
+  }
+  .im5{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 80px;
+    top: 550px;
+  }
+  .im6{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 240px;
+    top: 550px;
+  }
+  .im7{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+  }
+  .im8{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 240px;
+  }
+   */
+  
